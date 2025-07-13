@@ -36,6 +36,10 @@
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
     },
+     "baoge": {
+      "api": "https://abc.ifree.fun/api.php/provide/vod",
+      "name": "宝哥资源"
+    },
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "name": "卧龙资源"
